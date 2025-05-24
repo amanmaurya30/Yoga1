@@ -1,0 +1,58 @@
+<html>
+<head>ASSIGN-9</head>
+<body>
+  <table border="3"align="center"width="650"cellspacing="6">
+  <tr><th colspan="16">O LEVEL REVISED 5</th>
+  <tr><th colspan="4">MODULE I</th><th colspan="4">MODULE II</th><th colspan="4">MODULE III</th><th colspan="4">MODULE IV</th></tr>
+  <tr><th colspan="2">THEORY</th><th colspan="2">PRACTICAL</th><th colspan="2">THEORY</th><th colspan="2">PRACTICAL</th><th colspan="2">THEORY</th><th colspan="2">PRACTICAL</th><th colspan="2">THEORY</th><th colspan="2">PRACTICAL</th></tr>
+  <tr><th>MO</th><th>MM</th><th>MO</th><th>MM</th><th>MO</th><th>MM</th><th>MO</th><th>MM</th><th>MO</th><th>MM</th><th>MO</th><th>MM</th><th>MO</th></th><th>MM</th></th><th>MO</th></th><th>MM</th>
+  <tr><td align="center">69</td><td align="center">100</td> <td align="center">75</td><td align="center">100</td><td align="center">68</td><td align="center">100</td><td align="center">84</td><td align="center">100</td><td align="center">88</td><td align="center">100</td><td align="center">87</td><td align="center">100</td><td align="center">57</td><td align="center">100</td><td align="center">59</td><td align="center">100</td></tr>
+  </table>
+  
+  
+  
+  
+  
+  
+<p>
+   <table border="4"align="center"width="650"cellspacing="6"cellpading="5">
+   <tr><th>Country</th><th colspan="2">Population(In Crores)</th></tr>
+   <tr><th rowspan="3">INDIA</th><td>2018</td></th><td>100</td></tr>
+   <tr><td>2019</td></th><td>95</td></tr>
+   <tr><td>2020</td></th><td>85</td></tr>
+   <tr><th rowspan="3">USA</th><td>2018</td></th><td>85</td></tr>
+   <tr><td>2018</td></th><td>85</td></tr>
+   <tr><td>2018</td></th><td>85</td></tr>
+   <tr><th rowspan="3">Uk</th><td>2018</td></th><td>82</td></tr>
+   <tr><td>2018</td></th><td>82</td></tr>
+   <tr><td>2018</td></th><td>82</td></tr>
+   </table>
+<p>
+   <table border="4" align="center width="650" cellpadding="3">
+   <tr><td align="center">MANAS</td><td rowspan="5"align="center">FOOTBALL</td><td align="center">NAMAN</td></tr>
+   <tr><td align="center">PARUL</td><td align="center">NAMAN</td></tr>
+   <tr><td align="center">KAJAL</td><td align="center">NAMAN</td></tr>
+   <tr><td align="center">VIVEK</td><td align="center">NAMAN</td></tr>
+   <tr><td align="center">VIKASH</td><td align="center">NAMAN</td></tr>
+   </table>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+</body>
+</html>
+      

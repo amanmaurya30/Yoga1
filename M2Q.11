@@ -1,0 +1,11 @@
+<html>
+<head></head>
+<body>
+   <h1>FORM LINKS</h1>
+   <ul>
+       <li><a href="" target="frame 1">form 1</a></li>
+       <li><a href="" target="frame 1">form 1</a></li>
+	   <li><a href="" target="frame 1">form 1</a></li>
+	</ul>
+</body>
+</html>

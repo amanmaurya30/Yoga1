@@ -1,0 +1,66 @@
+<html>
+<head><title>m2assign_13</title></head>
+<style>
+.error{
+      color:red;
+	  }
+</style>
+<script>
+function validateform() {
+  var firstName = document.forms["myForm"]["firstName"].value;
+  var lastName = document.forms["myForm"]["lastName"].value;
+  var email = document.forms["myForm"]["email"].value;  
+  var userID = document.forms["myForm"]["userID"].value;
+  var password = document.forms["myForm"]["password"].value;
+  var confirmPassword = document.forms["myForm"]["confirmPassword"].value;
+  
+  var isValid= true;
+  if (firstName == "") {
+    document.getElementByID("firstNameError").innerHTML="First Name is required";
+	isValid = false;
+   } else{
+     document.getElementByID("firstNameError").innerHTML="";
+   }
+    if (lastName == "") {
+    document.getElementByID("lastNameError").innerHTML="Last Name is required";
+	isValid = false;
+   } else{
+     document.getElementByID("lastNameError").innerHTML="";
+   } 
+	if (email == "") {
+    document.getElementByID("emailError").innerHTML="Email is required";
+	isValid = false;
+   } else{
+     document.getElementByID("emailError").innerHTML="";
+   } 
+	if (userID =="") {
+    document.getElementByID("userIDError").innerHTML="userID is required";
+	isValid = false;
+   } else{
+     document.getElementByID("userIDError").innerHTML="";
+   }
+	 if (password =="") {
+    document.getElementByID("passwordError").innerHTML="password is required";
+	isValid = false;
+   } else{
+     document.getElementByID("passwordErrror").innerHTML="";
+   }
+	if (confirmPassword =="") {
+    document.getElementByID(confirmPasswordError").innerHTML="passwordError is required";
+	isValid = false;
+   } else{
+     document.getElementByID("passwordErrorError").innerHTML="";
+   } 
+    return isValid;
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+</body>
+</html>
